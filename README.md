@@ -12,11 +12,17 @@ I'm a student at Gujarat University, pursuing five year integrated degree in Art
 ### Languages and Tools
 
 [![Python](https://img.shields.io/badge/Python-Expert-brightgreen)](https://www.python.org/)
+
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-orange)](https://www.tensorflow.org/)
+
 [![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-orange)](https://pytorch.org/)
+
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Advanced-orange)](https://scikit-learn.org/)
+
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-blue)](https://jupyter.org/)
+
 [![Git](https://img.shields.io/badge/Git-Proficient-brightgreen)](https://git-scm.com/)
+
 [![SQL](https://img.shields.io/badge/SQL-Proficient-brightgreen)](https://www.w3schools.com/sql/)
 
 
