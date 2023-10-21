@@ -17,12 +17,13 @@ I'm a student at Gujarat University, pursuing a five-year integrated degree in A
 ### Languages and Tools
 
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="60" height="60"> 
+<img src="https://www.r-project.org/Rlogo.png" width="60" height="60">
 <img src="https://www.gstatic.com/devrel-devsite/prod/v89c3b644dadab0c1b29fcdfaa83db3f3db74c1887a83ba5a78318ee59aec3871/tensorflow/images/lockup.svg" width="60" height="60">
 <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="60" height="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" width="60" height="60">
 <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="60" height="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60" height="60">
-<img src="https://www.r-project.org/Rlogo.png" width="60" height="60">
+
 
 ### Certifications
 
