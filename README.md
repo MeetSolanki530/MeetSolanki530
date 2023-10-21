@@ -48,7 +48,7 @@ I'm a student at Gujarat University, pursuing a five-year integrated degree in A
 
 ### Projects
 
-- 🚀 [Create an intelligent system using AI/ML to detect phishing domains which imitate look and feel of genuine domains](https://github.com/MeetSolanki530/Phishing-Threat-Defenders): We are currently working on a project where we are building an intelligent system using AI and ML to identify phishing domains. These are fake websites that try to look like real ones to trick people into giving away their information. Using the skills we've been learning in machine learning, we are creating a program that can automatically spot these deceptive websites by analyzing their appearance and other features. As we continue to develop this project, we are also planning to add the ability to analyze images for an even more robust detection system.
+- 🚀 [Create an intelligent system using AI/ML to detect phishing domains which imitate look and feel of genuine domains](https://github.com/MeetSolanki530/Phishing-Threat-Defenders): I am currently working on a project where i am building an intelligent system using AI and ML to identify phishing domains. These are fake websites that try to look like real ones to trick people into giving away their information. Using the skills i've been learning in machine learning,  i am creating a program that can automatically spot these deceptive websites by analyzing their appearance and other features. As i continue to develop this project, i am also planning to add the ability to analyze images for an even more robust detection system.
 
 ### Connect with Me
 
