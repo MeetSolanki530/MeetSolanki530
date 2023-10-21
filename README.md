@@ -22,6 +22,7 @@ I'm a student at Gujarat University, pursuing a five-year integrated degree in A
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" width="60" height="60">
 <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="60" height="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60" height="60">
+<img src="https://www.r-project.org/Rlogo.png" width="60" height="60">
 
 ### Certifications
 
