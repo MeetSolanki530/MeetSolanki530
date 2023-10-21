@@ -61,19 +61,6 @@ I'm a student at Gujarat University, pursuing five year integrated degree in Art
   - [Certificate](https://www.coursera.org/account/accomplishments/verify/7VK9E6NZH3TX)
   
 
-### Projects
-
-- 🚀 [Project Name 1](Project 1 URL): A brief description of Project 1.
-- 🚀 [Project Name 2](Project 2 URL): A brief description of Project 2.
-- 🚀 [Project Name 3](Project 3 URL): A brief description of Project 3.
-
-...
-In this updated version, I've added the logos of Coursera and Great Learning without displaying the actual certificates. You can click on the "Certificate" link to verify your certifications on Coursera and Great Learning. Replace the "Certificate Image URL" placeholders with the actual URLs where your certificate logos are hosted if you have those logos available.
-
-
-
-
-
 
 
 ### Education
