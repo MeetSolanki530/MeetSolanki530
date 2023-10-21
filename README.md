@@ -21,7 +21,8 @@ I'm a student at Gujarat University, pursuing five year integrated degree in Art
 
 ### Connect with Me
 
-[![LinkedIn]((https://www.linkedin.com/in/meet-solanki-b96a78230/))]([LinkedIn URL](https://www.linkedin.com/in/meet-solanki-b96a78230/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue)](https://www.linkedin.com/in/meet-solanki-b96a78230/)
+
 [![GitHub](GitHub URL)](GitHub URL)
 
 Feel free to reach out if you have any questions or want to connect!
