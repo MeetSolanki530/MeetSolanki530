@@ -1,4 +1,4 @@
-# Hello, I'm [Meet Solanki] 👋
+# Hello, I'm Meet Solanki 👋
 
 I'm a student at Gujarat University, pursuing five year integrated degree in Artificial Intelligence and Machine Learning.
 
