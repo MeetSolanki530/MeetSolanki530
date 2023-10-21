@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, I'm [Meet Solanki] 👋
 
-<!--
-**MeetSolanki530/MeetSolanki530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at Gujarat University, pursuing five year integrated degree in Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm passionate about AI and ML and dedicated to learning and exploring the field.
+- 💼 Currently studying at Gujarat University, working on various AI and ML projects.
+- 📚 I'm eager to collaborate and contribute to the AI/ML community.
+- 📫 You can reach me via [solankimeet530@gmail.com].
+
+### My Interests
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Python
+- R
+- Data Visualization
+
+### Connect with Me
+
+[![LinkedIn](LinkedIn URL)](LinkedIn URL)
+[![GitHub](GitHub URL)](GitHub URL)
+
+Feel free to reach out if you have any questions or want to connect!
+
