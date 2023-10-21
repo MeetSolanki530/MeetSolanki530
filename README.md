@@ -23,7 +23,7 @@ I'm a student at Gujarat University, pursuing five year integrated degree in Art
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue)](https://www.linkedin.com/in/meet-solanki-b96a78230/)
 
-[![GitHub](GitHub URL)](GitHub URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Check%20Out%20My%20Projects-brightgreen)](https://github.com/MeetSolanki530/)
 
 Feel free to reach out if you have any questions or want to connect!
 
