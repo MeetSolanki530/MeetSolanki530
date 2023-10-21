@@ -25,6 +25,11 @@ I'm a student at Gujarat University, pursuing five year integrated degree in Art
 
 [![SQL](https://img.shields.io/badge/SQL-Proficient-brightgreen)](https://www.w3schools.com/sql/)
 
+### Education
+
+- **M.Sc. integrated in Artificial Intelligence and Machine Learning**
+  - Gujarat University, 2026
+
 
 ### Connect with Me
 
