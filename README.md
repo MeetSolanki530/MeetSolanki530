@@ -11,19 +11,17 @@ I'm a student at Gujarat University, pursuing five year integrated degree in Art
 
 ### Languages and Tools
 
-[![Python](https://img.shields.io/badge/Python-Expert-brightgreen)](https://www.python.org/)
+[![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)](https://www.python.org/)
 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-orange)](https://www.tensorflow.org/)
+[![TensorFlow](https://www.gstatic.com/devrel-devsite/prod/v89c3b644dadab0c1b29fcdfaa83db3f3db74c1887a83ba5a78318ee59aec3871/tensorflow/images/lockup.svg)](https://www.tensorflow.org/)
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-orange)](https://pytorch.org/)
+[![PyTorch](https://pytorch.org/assets/images/pytorch-logo.png)](https://pytorch.org/)
 
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Advanced-orange)](https://scikit-learn.org/)
+[![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png)](https://scikit-learn.org/)
 
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-blue)](https://jupyter.org/)
+[![Jupyter Notebook](https://jupyter.org/assets/homepage/main-logo.svg)](https://jupyter.org/)
 
-[![Git](https://img.shields.io/badge/Git-Proficient-brightgreen)](https://git-scm.com/)
-
-[![SQL](https://img.shields.io/badge/SQL-Proficient-brightgreen)](https://www.w3schools.com/sql/)
+[![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)](SQL Icon URL)
 
 
 ### Projects
