@@ -31,6 +31,23 @@ I'm a student at Gujarat University, pursuing five year integrated degree in Art
 - 🚀 [Create an intelligent system using AI/ML to detect phishing domains which imitate look and feel of genuine domains](https://github.com/MeetSolanki530/Phishing-Threat-Defenders): We are currently working on a project where we are building an intelligent system using AI and ML to identify phishing domains. These are fake websites that try to look like real ones to trick people into giving away their information. Using the skills we've been learning in machine learning, we are creating a program that can automatically spot these deceptive websites by analyzing their appearance and other features. As we continue to develop this project, we are also planning to add the ability to analyze images for an even more robust detection system.
 
 
+### Certifications
+
+- **Machine Learning Certification (Coursera, Year):**
+  [![Machine Learning](Certificate Image URL)](Certificate Image URL)
+  A description of the certification and its relevance.
+
+- **Deep Learning Specialization (Coursera, Year):**
+  [![Deep Learning](Certificate Image URL)](Certificate Image URL)
+  A description of the specialization and its significance.
+
+- **Data Science Professional Certificate (Great Learning, 2023):**
+  [![Data Science]([Certificate Image URL](https://verify.mygreatlearning.com/verify/ZUXSVHOH))]([Certificate Image URL](https://verify.mygreatlearning.com/verify/ZUXSVHOH))
+  A brief description of the certificate and the skills it validates.
+
+
+
+
 ### Education
 
 - **M.Sc. integrated in Artificial Intelligence and Machine Learning**
