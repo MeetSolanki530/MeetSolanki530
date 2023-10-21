@@ -13,15 +13,15 @@ I'm a student at Gujarat University, pursuing five year integrated degree in Art
 
 [![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)](https://www.python.org/)
 
-[![TensorFlow](https://www.gstatic.com/devrel-devsite/prod/v89c3b644dadab0c1b29fcdfaa83db3f3db74c1887a83ba5a78318ee59aec3871/tensorflow/images/lockup.svg)](https://www.tensorflow.org/)
+[<img src="https://www.gstatic.com/devrel-devsite/prod/v89c3b644dadab0c1b29fcdfaa83db3f3db74c1887a83ba5a78318ee59aec3871/tensorflow/images/lockup.svg" width="30">](https://www.tensorflow.org/)
 
-[![PyTorch](https://pytorch.org/assets/images/pytorch-logo.png)](https://pytorch.org/)
+[<img src="https://pytorch.org/assets/images/pytorch-logo.png" width="30">](https://pytorch.org/)
 
-[![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png)](https://scikit-learn.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" width="30">](https://scikit-learn.org/)
 
-[![Jupyter Notebook](https://jupyter.org/assets/homepage/main-logo.svg)](https://jupyter.org/)
+[<img src="https://jupyter.org/assets/homepage/main-logo.svg" width="30">](https://jupyter.org/)
 
-[![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)](SQL Icon URL)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="30">](SQL Icon URL)
 
 
 ### Projects
