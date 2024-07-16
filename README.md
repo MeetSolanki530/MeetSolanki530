@@ -54,25 +54,25 @@ I'm an aspiring Artificial Intelligence and Machine Learning engineer with a str
 
 ## Projects
 
-### Amazon Products Sentiment Analysis 
+### 1. Amazon Products Sentiment Analysis 
 [GitHub Repo](https://github.com/MeetSolanki530/Amazon_Products_Sentiment_Analysis/)
 
 - Classified Amazon product reviews into positive and negative sentiments using Decision Trees, Random Forests, and XGBoost.
 - Achieved high accuracy (91.74% - 93.65%) through text preprocessing, TF-IDF vectorization, and hyperparameter tuning.
 
-### Book Recommendation System
+### 2. Book Recommendation System
 [GitHub Repo](https://github.com/MeetSolanki530/Book_Recommendation_System/)
 
 - Built a personalized book recommendation system using collaborative filtering and cosine similarity.
 - Implemented TF-IDF vectorization to represent book content and user preferences.
 
-### Phishing Site Detection System
+### 3. Phishing Site Detection System
 [GitHub Repo](https://github.com/MeetSolanki530/Phishing-Threat-Defenders)
 
 - Developed an advanced system to detect phishing websites using machine learning and AI techniques.
 - Utilized web development skills to create a user-friendly interface.
 
-### Chatbots for Mythological Texts
+### 4. Chatbots for Mythological Texts
 [GitHub Repo(ramayana)](https://github.com/MeetSolanki530/ramayana-chatbot)
 
 [GitHub Repo(bhagwatgeeta)](https://github.com/MeetSolanki530/bhagwatgeeta-chatbot)
@@ -82,30 +82,30 @@ I'm an aspiring Artificial Intelligence and Machine Learning engineer with a str
 - Created interactive chatbots for Ramayana, Mahabharata, and Bhagavad Gita using Langchain and FAISS.
 - Leveraged natural language processing (NLP) and vector databases for efficient querying and responses.
 
-### Face Attendance System
+### 5. Face Attendance System
 [GitHub Repo](https://github.com/MeetSolanki530/Face_Attendance_System/)
 
 - Implemented an automated attendance system using facial recognition with OpenCV and face_recognition libraries.
 
-### Face Mask Classification
+### 6. Face Mask Classification
 [GitHub Repo](https://github.com/MeetSolanki530/FACE_MASK_CLASSIFICATION/)
 
 - Developed a real-time face mask detection system using Convolutional Neural Networks (CNNs) and Streamlit.
 - Achieved high accuracy (99.72% training, 91.73% validation) in classifying masked and unmasked faces.
 
-### Human Activity Recognition
+### 7. Human Activity Recognition
 [GitHub Repo](https://github.com/MeetSolanki530/Human_Activity_Recognition/)
 
 - Built a model to classify human activities from images using deep learning techniques.
 - Achieved 95% training accuracy with a CNN-based architecture.
 
-### Traffic Sign Detection
+### 8. Traffic Sign Detection
 [GitHub Repo](https://github.com/MeetSolanki530/Traffic_Sign_Detection)
 
 - Developed a real-time traffic sign detection system using the YOLOv8 model.
 - Fine-tuned the model for accurate object detection and classification.
 
-### Wild vs. Domestic Animal Image Classification
+### 9. Wild vs. Domestic Animal Image Classification
 [GitHub Repo](https://github.com/MeetSolanki530/Wild_vs_Domestic_Animal_Image_Classification)
 
 - Classified images of wild and domestic animals using a CNN model.
