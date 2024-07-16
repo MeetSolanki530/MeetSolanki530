@@ -1,64 +1,51 @@
-# Hello, I'm Meet Solanki 👋
+# Hi there, I'm Meet Solanki 👋
 
-I'm a student at Gujarat University, pursuing degree in Artificial Intelligence and Machine Learning.
+I'm a passionate Artificial Intelligence and Machine Learning enthusiast currently pursuing my degree at Gujarat University. I'm eager to learn, collaborate, and contribute to the AI/ML community.
 
-### About Me
+## About Me
 
-- 🌱 I'm passionate about AI and ML and dedicated to learning and exploring the field.
-- 💼 Currently studying at Gujarat University, working on various AI and ML projects.
-- 📚 I'm eager to collaborate and contribute to the AI/ML community.
-- 📫 You can reach me via [solankimeet530@gmail.com].
+- 🌱  Thriving in the world of AI and ML, always seeking new knowledge.
+- 🎓  Currently studying at Gujarat University, actively involved in AI/ML projects.
+- 🤝  Open to collaboration and contributions to the AI/ML community.
+- 📫  Feel free to reach out to me via email: solankimeet530@gmail.com
 
-### Education
+## Education
 
 - **B.Sc. in Artificial Intelligence and Machine Learning**
-  - Gujarat University, 2024
-    
+  - Gujarat University (Expected Graduation: 2024)
 - **M.Sc. in Artificial Intelligence and Machine Learning**
-  - Gujarat University, 2026
+  - Gujarat University (Expected Graduation: 2026)
 
-### Languages and Tools
+## Skills & Tools
+- 🐍 Python
+- 📈 R
+- 🧠 TensorFlow
+- 🔥 PyTorch
+- 🤖 Scikit-learn
+- 📓 Jupyter
+- 📊 SQL
 
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="60" height="60"> 
-<img src="https://www.r-project.org/Rlogo.png" width="60" height="60">
-<img src="https://www.gstatic.com/devrel-devsite/prod/v89c3b644dadab0c1b29fcdfaa83db3f3db74c1887a83ba5a78318ee59aec3871/tensorflow/images/lockup.svg" width="60" height="60">
-<img src="https://pytorch.org/assets/images/pytorch-logo.png" width="60" height="60">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" width="60" height="60">
-<img src="https://jupyter.org/assets/homepage/main-logo.svg" width="60" height="60">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60" height="60">
 
+## Certifications
 
-### Certifications
+I've completed several courses on Great Learning and Coursera, covering topics like:
 
-- **EDA With Python In Hindi (Great Learning, June 2023)**
-  - [Certificate](https://verify.mygreatlearning.com/verify/ZUXSVHOH)
+- EDA with Python
+- Random Forests
+- Sentiment Analysis
+- Data Science Mathematics
+- And more!
 
-- **Random Forest (Great Learning, June 2023)**
-  - [Certificate](https://verify.mygreatlearning.com/verify/IKSWQYOO)
+You can verify my certifications by following the links in each section.
 
-- **Sentiment Analysis using Python (Great Learning, June 2023)**
-  - [Certificate](https://verify.mygreatlearning.com/verify/MJDTQRUG)
+## Featured Project
 
-- **Basics of EDA with Python (Great Learning, May 2023)**
-  - [Certificate](https://verify.mygreatlearning.com/verify/DABJVQWK)
+- **Phishing Threat Defenders** ([GitHub Repo](https://github.com/MeetSolanki530/Phishing-Threat-Defenders))
+  - I'm developing an intelligent system using AI and ML to identify phishing domains, with future plans to incorporate image analysis for even better detection.
 
-- **Data Science Mathematics (Great Learning, April 2023)**
-  - [Certificate](https://verify.mygreatlearning.com/verify/PADXOQTE)
-
-- **IPL Winner Prediction using Machine Learning (Great Learning, May 2023)**
-  - [Certificate](https://verify.mygreatlearning.com/verify/LFSNJUOS)
-
-- **Programming for Everybody (Getting Started with Python) (Coursera, May 2022)**
-  - [Certificate](https://www.coursera.org/account/accomplishments/verify/7VK9E6NZH3TX)
-
-### Projects
-
-- 🚀 [Create an intelligent system using AI/ML to detect phishing domains which imitate look and feel of genuine domains](https://github.com/MeetSolanki530/Phishing-Threat-Defenders): I am currently working on a project where i am building an intelligent system using AI and ML to identify phishing domains. These are fake websites that try to look like real ones to trick people into giving away their information. Using the skills i've been learning in machine learning,  i am creating a program that can automatically spot these deceptive websites by analyzing their appearance and other features. As i continue to develop this project, i am also planning to add the ability to analyze images for an even more robust detection system.
-
-### Connect with Me
+## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue)](https://www.linkedin.com/in/meet-solanki-b96a78230/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Check%20Out%20My%20Projects-brightgreen)](https://github.com/MeetSolanki530/)
 
-Feel free to reach out if you have any questions or want to connect!
+I'm always eager to connect with fellow AI/ML enthusiasts! Feel free to reach out.
