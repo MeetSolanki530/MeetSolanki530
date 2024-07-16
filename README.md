@@ -1,6 +1,6 @@
 # Hello, I'm Meet Solanki 👋
 
-I'm a student at Gujarat University, pursuing a five-year integrated degree in Artificial Intelligence and Machine Learning.
+I'm a student at Gujarat University, pursuing degree in Artificial Intelligence and Machine Learning.
 
 ### About Me
 
@@ -11,7 +11,10 @@ I'm a student at Gujarat University, pursuing a five-year integrated degree in A
 
 ### Education
 
-- **M.Sc. integrated in Artificial Intelligence and Machine Learning**
+- **B.Sc. in Artificial Intelligence and Machine Learning**
+  - Gujarat University, 2024
+    
+- **M.Sc. in Artificial Intelligence and Machine Learning**
   - Gujarat University, 2026
 
 ### Languages and Tools
