@@ -73,11 +73,11 @@ I'm an aspiring Artificial Intelligence and Machine Learning engineer with a str
 - Utilized web development skills to create a user-friendly interface.
 
 ### Chatbots for Mythological Texts
-[GitHub Repo](https://github.com/MeetSolanki530/ramayana-chatbot)
+[GitHub Repo(ramayana)](https://github.com/MeetSolanki530/ramayana-chatbot)
 
-[GitHub Repo](https://github.com/MeetSolanki530/bhagwatgeeta-chatbot)
+[GitHub Repo(bhagwatgeeta)](https://github.com/MeetSolanki530/bhagwatgeeta-chatbot)
 
-[GitHub Repo](https://github.com/MeetSolanki530/Mahabharata-gpt)
+[GitHub Repo(Mahabharata)](https://github.com/MeetSolanki530/Mahabharata-gpt)
 
 - Created interactive chatbots for Ramayana, Mahabharata, and Bhagavad Gita using Langchain and FAISS.
 - Leveraged natural language processing (NLP) and vector databases for efficient querying and responses.
