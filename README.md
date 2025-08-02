@@ -9,7 +9,8 @@ I'm an aspiring Artificial Intelligence and Machine Learning engineer with a str
 - 💼  Experience as a Machine Learning Intern at YBI Foundation.
 - 🤝  Open to collaboration and passionate about advancing technology.
 - 📫  Let's connect: solankimeet530@gmail.com
-
+- 🔗 POrtfolio: https://www.aimlmeetsolanki.engineer/
+  
 ## Education
 
 - **M.Sc. in Artificial Intelligence and Machine Learning**
