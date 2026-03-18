@@ -1,153 +1,135 @@
-# 👋 Hi, I’m Meet Solanki
+<h1 align="center">Hi 👋, I'm Meet Solanki</h1>
+<h3 align="center">AI/ML Engineer • LLMs • Agentic AI • Automation Systems</h3>
 
-I’m an **AI Integration & Automation Specialist** with a strong foundation in **Artificial Intelligence and Machine Learning**. I focus on building **production-ready AI systems**, **chatbots**, and **workflow automations** that solve real business problems.
-
-I’m currently pursuing my **M.Sc. in Artificial Intelligence & Machine Learning at Gujarat University**, building on my B.Sc. in the same field, while actively working on client projects involving AI, LLMs, and automation tools.
-
----
-
-## 🧠 About Me
-
-* 🤖 AI Integration & Automation Specialist
-* 🔁 Hands-on experience with **n8n**, **Zapier**, and workflow automation
-* 🧩 Strong background in **ML, DL, NLP, and Generative AI**
-* ☁️ Experience deploying AI systems on **cloud and managed environments**
-* 💼 Worked with real clients on **AI automation, chatbots, and R&D workflows**
-* 📫 Email: **[solankimeet530@gmail.com](mailto:solankimeet530@gmail.com)**
-* 🌐 Portfolio: [https://www.aimlmeetsolanki.engineer/](https://www.aimlmeetsolanki.engineer/)
+<p align="center">
+  <a href="https://github.com/MeetSolanki530"><img src="https://img.shields.io/github/followers/MeetSolanki530?label=GitHub&style=social" /></a>
+  <a href="https://stackoverflow.com/users/24999147/meet-solanki"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://www.upwork.com/freelancers/~01d34c717a2104b1cd"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🎓 Education
+## 🚀 About Me
 
-**M.Sc. in Artificial Intelligence and Machine Learning**
-Gujarat University (2024 – 2026)
-
-**B.Sc. in Artificial Intelligence and Machine Learning**
-Gujarat University (2021 – 2024)
-
----
-
-## 🛠️ Skills & Technologies
-
-### 🤖 AI & Machine Learning
-
-Supervised Learning, Unsupervised Learning, Classification, Regression, Clustering, Feature Engineering, Model Evaluation, Hyperparameter Tuning, Reinforcement Learning
-
-### 🧠 Deep Learning
-
-ANNs, CNNs, RNNs, Transfer Learning, Backpropagation, Gradient Descent
-
-### 💬 NLP & Generative AI
-
-Chatbots, Retrieval-Augmented Generation (RAG), Text Preprocessing, Sentiment Analysis, Vector Search
-
-### ⚙️ Frameworks & Tools
-
-Python, Scikit-learn, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn, OpenCV, LangChain, FAISS
-
-### 🔄 Automation & AI Agents
-
-n8n, Zapier, CrewAI, Autogen, LangGraph, Agno
-
-### 🧩 Backend & Deployment
-
-Flask, Streamlit, REST APIs, AWS EC2, Firebase Cloud Run, Google Cloud Compute Engine
-
-### 🔗 AI APIs & Services
-
-OpenAI API, Azure OpenAI, Azure Cognitive Services, Google Cloud Vision API, Amazon Bedrock
+- 🧠 Building **LLM-powered applications, RAG systems & AI agents**
+- ⚙️ Designing **automation workflows & MCP-based systems**
+- ☁️ Deploying **production-ready AI systems on cloud**
+- 💼 Experience in **real-world AI products & client solutions**
+- 🔥 Focused on **scalable, practical, and impactful AI systems**
 
 ---
 
-## 🚀 Projects
+## ⚡ Tech Stack
 
-### 📦 Amazon Products Sentiment Analysis
+### 🤖 AI / ML / GenAI
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+</p>
 
-🔗 [https://github.com/MeetSolanki530/Amazon_Products_Sentiment_Analysis](https://github.com/MeetSolanki530/Amazon_Products_Sentiment_Analysis)
+---
 
-Classified Amazon product reviews using Decision Trees, Random Forest, and XGBoost. Achieved up to **93.65% accuracy** with TF-IDF and hyperparameter tuning.
+### 🧠 LLMs, RAG & Vector DBs
+<p>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Weaviate-00C4CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge"/>
+</p>
+
+---
+
+### 🤖 Agentic AI & Automation
+<p>
+<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AutoGen-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI_Agents-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier"/>
+<img src="https://img.shields.io/badge/Make-6C63FF?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚙️ Backend & APIs
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge"/>
+</p>
+
+---
+
+### ☁️ Cloud & Deployment
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 RAG-Based AI Chatbots
+- Ramayana → https://github.com/MeetSolanki530/ramayana-chatbot  
+- Bhagavad Gita → https://github.com/MeetSolanki530/bhagwatgeeta-chatbot  
+- Mahabharata → https://github.com/MeetSolanki530/Mahabharata-gpt  
+
+---
+
+### 📦 Amazon Sentiment Analysis
+- Achieved **93.65% accuracy**
+- ML models + TF-IDF optimization  
+
+🔗 https://github.com/MeetSolanki530/Amazon_Products_Sentiment_Analysis  
 
 ---
 
 ### 📚 Book Recommendation System
-
-🔗 [https://github.com/MeetSolanki530/Book_Recommendation_System](https://github.com/MeetSolanki530/Book_Recommendation_System)
-
-Built a personalized recommendation system using collaborative filtering, cosine similarity, and TF-IDF representations.
+🔗 https://github.com/MeetSolanki530/Book_Recommendation_System  
 
 ---
 
-### 🛡️ Phishing Site Detection System
+## ⚡ Currently Building
 
-🔗 [https://github.com/MeetSolanki530/Phishing-Threat-Defenders](https://github.com/MeetSolanki530/Phishing-Threat-Defenders)
-
-Developed a machine learning-based phishing detection system with a user-friendly web interface.
-
----
-
-### 📖 Mythological Text Chatbots (RAG-Based)
-
-* Ramayana: [https://github.com/MeetSolanki530/ramayana-chatbot](https://github.com/MeetSolanki530/ramayana-chatbot)
-* Bhagavad Gita: [https://github.com/MeetSolanki530/bhagwatgeeta-chatbot](https://github.com/MeetSolanki530/bhagwatgeeta-chatbot)
-* Mahabharata: [https://github.com/MeetSolanki530/Mahabharata-gpt](https://github.com/MeetSolanki530/Mahabharata-gpt)
-
-Created domain-specific chatbots using **LangChain** and **FAISS** for efficient document retrieval and accurate responses.
+- LLM-powered **AI Agents & Multi-Agent Systems**
+- AI workflow automation (**n8n + APIs**)
+- MCP-based AI architectures
+- Production-ready deployments
 
 ---
 
-### 🎥 Face Attendance System
+## 📊 GitHub Stats
 
-🔗 [https://github.com/MeetSolanki530/Face_Attendance_System](https://github.com/MeetSolanki530/Face_Attendance_System)
-
-Implemented an automated attendance system using facial recognition with OpenCV.
-
----
-
-### 😷 Face Mask Classification
-
-🔗 [https://github.com/MeetSolanki530/FACE_MASK_CLASSIFICATION](https://github.com/MeetSolanki530/FACE_MASK_CLASSIFICATION)
-
-Built a real-time face mask detection system using CNNs and Streamlit with high accuracy.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeetSolanki530&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeetSolanki530&theme=tokyonight" />
+</p>
 
 ---
 
-### 🏃 Human Activity Recognition
+## 🌐 Connect
 
-🔗 [https://github.com/MeetSolanki530/Human_Activity_Recognition](https://github.com/MeetSolanki530/Human_Activity_Recognition)
-
-Developed a CNN-based model to classify human activities from images.
-
----
-
-### 🚦 Traffic Sign Detection
-
-🔗 [https://github.com/MeetSolanki530/Traffic_Sign_Detection](https://github.com/MeetSolanki530/Traffic_Sign_Detection)
-
-Implemented real-time traffic sign detection using **YOLOv8**.
+- LinkedIn → https://www.linkedin.com/in/meet-solanki-b96a78230/
+- Portfolio → https://www.aimlmeetsolanki.engineer/
+- Upwork → https://www.upwork.com/freelancers/~01d34c717a2104b1cd
+- StackOverflow → https://stackoverflow.com/users/24999147/meet-solanki
 
 ---
 
-### 🐾 Wild vs Domestic Animal Classification
+## 💡 Focus
 
-🔗 [https://github.com/MeetSolanki530/Wild_vs_Domestic_Animal_Image_Classification](https://github.com/MeetSolanki530/Wild_vs_Domestic_Animal_Image_Classification)
+> Building **real-world AI systems** - not just demos.
 
-Trained a CNN model to classify wild and domestic animals with strong test accuracy.
-
----
-
-## 🔧 What I’m Currently Working On
-
-* AI-powered workflow automation using **n8n**
-* Chatbots and AI agents for business workflows
-* LLM integration into real products and internal systems
-* Cloud-hosted, production-ready AI solutions
-
----
-
-## 🤝 Let’s Connect
-
-🔗 LinkedIn: [https://www.linkedin.com/in/meet-solanki-b96a78230/](https://www.linkedin.com/in/meet-solanki-b96a78230/)
-💻 GitHub: [https://github.com/MeetSolanki530](https://github.com/MeetSolanki530)
-
-I’m always open to collaborations, freelance projects, and building practical AI solutions that create real-world impact.
+Open to **AI/ML roles, freelance work, and collaborations** 🚀
