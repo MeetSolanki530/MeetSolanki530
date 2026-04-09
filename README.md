@@ -128,20 +128,17 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/meet-solanki-b96a78230/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
-
   <a href="https://www.aimlmeetsolanki.engineer/">
-    <img src="https://cdn.simpleicons.org/google/4285F4" height="40" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox-browser&logoColor=white" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
-
   <a href="https://www.upwork.com/freelancers/~01d34c717a2104b1cd">
     <img src="https://cdn.simpleicons.org/upwork/6FDA44" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-
   <a href="https://stackoverflow.com/users/24999147/meet-solanki">
     <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" />
   </a>
