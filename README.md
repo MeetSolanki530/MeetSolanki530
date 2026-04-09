@@ -126,10 +126,26 @@
 
 ## 🌐 Connect
 
-- LinkedIn → https://www.linkedin.com/in/meet-solanki-b96a78230/
-- Portfolio → https://www.aimlmeetsolanki.engineer/
-- Upwork → https://www.upwork.com/freelancers/~01d34c717a2104b1cd
-- StackOverflow → https://stackoverflow.com/users/24999147/meet-solanki
+<p align="center">
+  <a href="https://www.linkedin.com/in/meet-solanki-b96a78230/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.aimlmeetsolanki.engineer/">
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="40" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.upwork.com/freelancers/~01d34c717a2104b1cd">
+    <img src="https://img.icons8.com/color/48/upwork.png" height="40" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://stackoverflow.com/users/24999147/meet-solanki">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" />
+  </a>
+</p>
 
 ---
 
