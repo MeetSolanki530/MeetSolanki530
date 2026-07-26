@@ -7,6 +7,10 @@
   <a href="https://www.upwork.com/freelancers/~01d34c717a2104b1cd"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MeetSolanki530&color=blueviolet&style=flat" />
+</p>
+
 ---
 
 ## 🚀 About Me
