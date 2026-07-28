@@ -166,8 +166,10 @@ ML Models + TF-IDF Optimization
 
 ---
 
-## 💡 Focus
+<h2 align="center">💡 Focus</h2>
 
-> Building **real world AI systems**, not just demos.
+<p align="center">
+Building <strong>production-ready AI systems</strong> that solve real-world problems.
+</p>
 
 Open to **AI/ML roles, freelance work, and collaborations** 🚀
