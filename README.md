@@ -27,24 +27,31 @@ I maintain a couple of packages on PyPI and take on freelance client work buildi
 ## Skills
 
 **AI Agents & LLMs**
+
 LangChain · LangGraph · CrewAI · AutoGen · n8n · RAG
 
 **Model Providers & Local Inference**
+
 OpenAI · Anthropic · Ollama · LocalAI
 
 **Vector Search**
+
 FAISS · Chroma · Pinecone · Qdrant · Weaviate · Embeddings
 
 **Machine Learning & Deep Learning**
+
 Scikit-learn · TensorFlow · PyTorch · CNNs · RNNs
 
 **Backend & APIs**
+
 Python · FastAPI · Flask · Django · REST · WebSockets · OpenCV
 
 **Cloud & DevOps**
+
 AWS · GCP · Firebase · Docker · Nginx
 
 **Data**
+
 SQL · R · Pandas · Matplotlib · Seaborn
 
 ---
@@ -52,23 +59,29 @@ SQL · R · Pandas · Matplotlib · Seaborn
 ## Selected Projects
 
 **Mythological Chatbots Suite**
+
 RAG chatbots for the Ramayana, Bhagavad Gita, and Mahabharata, built with LangChain and FAISS.
 [Ramayana](https://github.com/MeetSolanki530/ramayana-chatbot) · [Bhagavad Gita](https://github.com/MeetSolanki530/bhagwatgeeta-chatbot) · [Mahabharata](https://github.com/MeetSolanki530/Mahabharata-gpt)
 
 **AI Research Assistant Platform**
+
 CrewAI multi-agent system that automates company research and strategy planning, pulling insights out of large PDF volumes.
 
 **Phishing Threat Defenders**
+
 ML system that flags phishing websites by analyzing URL patterns.
 
 **Animal Classification (CNN)**
+
 CNN model that classifies wild vs. domestic animals.
 
 **Amazon Sentiment Analysis**
+
 Sentiment classifier at 93.65% accuracy using TF-IDF and classical ML.
 [Repo](https://github.com/MeetSolanki530/Amazon_Products_Sentiment_Analysis)
 
 **Book Recommendation System**
+
 [Repo](https://github.com/MeetSolanki530/Book_Recommendation_System)
 
 More on [GitHub](https://github.com/MeetSolanki530).
@@ -78,15 +91,19 @@ More on [GitHub](https://github.com/MeetSolanki530).
 ## Experience
 
 **AI Integration Developer**, Freelance (Upwork), Oct 2023 to Present
+
 AI/ML development for clients worldwide: model development, deployment, and workflow automation. Builds AI agents and automation pipelines with n8n, LLMs, and RAG.
 
 **AIML Executive (L1)**, Wellorgs Infotech Private Limited, Dec 2024 to May 2025
+
 Built and deployed scalable APIs with Python, Flask, Firebase Cloud Run, and AWS EC2. Integrated OpenAI and LangChain for behavioral monitoring and cut inference time for real-time use.
 
 **AIML Intern**, Wellorgs Infotech Private Limited, Aug 2024 to Nov 2024
+
 Fine-tuned machine learning models for educational content analysis.
 
 **Machine Learning Intern**, Suvidha Foundation, Apr 2024 to May 2024
+
 **Machine Learning Intern**, YBI Foundation, Nov 2023 to Dec 2023
 
 ---
@@ -94,6 +111,7 @@ Fine-tuned machine learning models for educational content analysis.
 ## Education
 
 **M.Sc. in Artificial Intelligence & Machine Learning**, Gujarat University, 2024 to 2026
+
 **B.Sc. in Artificial Intelligence & Machine Learning**, Gujarat University, 2021 to 2024, CGPA 8.65
 
 ---
@@ -101,6 +119,7 @@ Fine-tuned machine learning models for educational content analysis.
 ## Open Source
 
 **[maahelper](https://pypi.org/project/maahelper/)**: AI-powered assistant agent for automation tasks
+
 **[ragpackai](https://pypi.org/project/ragpackai/)**: portable retrieval-augmented generation library
 
 ---
@@ -108,7 +127,6 @@ Fine-tuned machine learning models for educational content analysis.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeetSolanki530&show_icons=true&theme=tokyonight" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeetSolanki530&theme=tokyonight" /><br/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MeetSolanki530&layout=compact&hide_border=true&theme=tokyonight" /><br/>
   <img src="https://ghchart.rshah.org/MeetSolanki530" />
