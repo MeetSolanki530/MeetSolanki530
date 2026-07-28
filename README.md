@@ -1,4 +1,7 @@
-# Hi 👋 I'm Meet Solanki
+<p align="center">
+  <b># Hi 👋 I'm Meet Solanki</b>
+</p>
+
 
 <p align="center">
   <b>AI/ML Engineer • LLMs • Agentic AI • Automation Systems</b>
