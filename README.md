@@ -28,82 +28,57 @@
 ### 🤖 AI / ML / GenAI
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>   &nbsp;
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>   
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>  
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>   &nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>    &nbsp;
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>    &nbsp;
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>    &nbsp;
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>    &nbsp;
 </p>
 
 ---
 
 ### 🧠 LLMs, RAG & Vector DBs
 <p align="center">
-
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>  
-
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>  
-
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>  
-
-<img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge"/>  
-
-<img src="https://img.shields.io/badge/Weaviate-00C4CC?style=for-the-badge"/>  
-
-<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge"/>  
-
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>   &nbsp; 
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>    &nbsp;
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>    &nbsp;
+<img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge"/>    &nbsp;
+<img src="https://img.shields.io/badge/Weaviate-00C4CC?style=for-the-badge"/>    &nbsp;
+<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge"/>    &nbsp;
 </p>
 
 ---
 
 ### 🤖 Agentic AI & Automation
 <p align="center">
-
-<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge"/>  
-
-<img src="https://img.shields.io/badge/AutoGen-000000?style=for-the-badge"/>  
-
-<img src="https://img.shields.io/badge/OpenAI_Agents-412991?style=for-the-badge"/>  
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>  
-
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier"/>  
-
-<img src="https://img.shields.io/badge/Make-6C63FF?style=for-the-badge"/>  
-
+<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge"/>    &nbsp;
+<img src="https://img.shields.io/badge/AutoGen-000000?style=for-the-badge"/>   &nbsp; 
+<img src="https://img.shields.io/badge/OpenAI_Agents-412991?style=for-the-badge"/>    &nbsp;
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>    &nbsp;
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier"/>   &nbsp; 
+<img src="https://img.shields.io/badge/Make-6C63FF?style=for-the-badge"/>    &nbsp;
 </p>
 
 ---
 
 ### ⚙️ Backend & APIs
 <p align="center">
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>  
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>  
-
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>  
-
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>  
-
-<img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge"/>  
-
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>    &nbsp;
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>    &nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>    &nbsp;
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>    &nbsp;
+<img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge"/>    &nbsp;
 </p>
 
 ---
 
 ### ☁️ Cloud & Deployment
 <p align="center">
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>  
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>  
-
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>  
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>  
-
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx"/>  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>    &nbsp;
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>    &nbsp;
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>    &nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>    &nbsp;
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx"/>    &nbsp;
 
 </p>
 
