@@ -26,7 +26,7 @@
 ## ⚡ Tech Stack
 
 ### 🤖 AI / ML / GenAI
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>   &nbsp;
 
@@ -45,7 +45,7 @@
 ---
 
 ### 🧠 LLMs, RAG & Vector DBs
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>  &nbsp;
 
@@ -64,7 +64,7 @@
 ---
 
 ### 🤖 Agentic AI & Automation
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge"/>  &nbsp;
 
@@ -83,7 +83,7 @@
 ---
 
 ### ⚙️ Backend & APIs
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>  &nbsp;
 
@@ -100,7 +100,7 @@
 ---
 
 ### ☁️ Cloud & Deployment
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>  &nbsp;
 
