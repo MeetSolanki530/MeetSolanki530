@@ -138,15 +138,12 @@ ML-based sentiment analysis using TF-IDF & classical machine learning.
 ---
 
 <h2 align="center">🚀 Currently Building</h2>
-
 <p align="center">
-
 🤖 AI Agents & Multi-Agent Systems<br>
 🧠 LLM-Powered Applications<br>
 ⚙️ AI Workflow Automation (n8n + APIs)<br>
 🔗 MCP-Based AI Architectures<br>
 ☁️ Production-Ready AI Systems
-
 </p>
 
 ---
