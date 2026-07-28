@@ -171,17 +171,11 @@ ML-based sentiment analysis using TF-IDF & classical machine learning.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeetSolanki530&theme=tokyonight"/>
-
 <br><br>
-
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MeetSolanki530&layout=compact&theme=tokyonight"/>
-
 <br><br>
-
 <img src="https://ghchart.rshah.org/MeetSolanki530"/>
-
 </p>
 
 ---
