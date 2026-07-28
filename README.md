@@ -2,9 +2,9 @@
 <h3 align="center">AI/ML Engineer • LLMs • Agentic AI • Automation Systems</h3>
 
 <p align="center">
-  <a href="https://github.com/MeetSolanki530"><img src="https://img.shields.io/github/followers/MeetSolanki530?label=GitHub&style=social" /></a>
-  <a href="https://stackoverflow.com/users/24999147/meet-solanki"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://www.upwork.com/freelancers/~01d34c717a2104b1cd"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white"/></a>
+  <a href="https://github.com/MeetSolanki530"><img src="https://img.shields.io/github/followers/MeetSolanki530?label=GitHub&style=social" /></a>   &nbsp;
+  <a href="https://stackoverflow.com/users/24999147/meet-solanki"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white"/></a>  &nbsp;
+  <a href="https://www.upwork.com/freelancers/~01d34c717a2104b1cd"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white"/></a>  &nbsp;
 </p>
 
 <p align="center">
