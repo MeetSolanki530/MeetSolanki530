@@ -27,13 +27,11 @@ AI/ML Engineer • LLMs • Agentic AI • Automation Systems
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-
 🧠 Building <strong>LLM-powered applications, RAG systems & AI agents</strong><br>
 ⚙️ Designing <strong>automation workflows & MCP-based systems</strong><br>
 ☁️ Deploying <strong>production-ready AI systems on cloud</strong><br>
 💼 Developing <strong>real-world AI products & client solutions</strong><br>
 🔥 Passionate about building <strong>scalable, practical AI systems</strong>
-
 </p>
 
 ---
