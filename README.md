@@ -151,11 +151,8 @@
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=MeetSolanki530&show_icons=true&theme=tokyonight" /><br/><br/> -->
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeetSolanki530&theme=tokyonight" /><br/><br/>
-  
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MeetSolanki530&layout=compact&hide_border=true&theme=tokyonight" /><br/><br/>
-  
   <img src="https://ghchart.rshah.org/MeetSolanki530" />
 </p>
 
