@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Meet Solanki</h1>
-<h3 align="center">AI/ML Engineer • LLMs • Agentic AI • Automation Systems</h3>
+<h1 align="center">Meet Solanki</h1>
+<h3 align="center">AI/ML Engineer | LLMs, Agentic AI & Automation Systems</h3>
 
 <p align="center">
-  <a href="https://github.com/MeetSolanki530"><img src="https://img.shields.io/github/followers/MeetSolanki530?label=GitHub&style=social" /></a>
+  <a href="https://www.linkedin.com/in/meet-solanki-b96a78230/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/24999147/meet-solanki"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://www.upwork.com/freelancers/~01d34c717a2104b1cd"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white"/></a>
+  <a href="https://pypi.org/user/MeetSolanki530/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white"/></a>
+  <a href="https://aiml-meet-portfolio-frontend.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox-browser&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -13,145 +14,108 @@
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🧠 Building **LLM-powered applications, RAG systems & AI agents**
-- ⚙️ Designing **automation workflows & MCP-based systems**
-- ☁️ Deploying **production-ready AI systems on cloud**
-- 💼 Experience in **real-world AI products & client solutions**
-- 🔥 Focused on **scalable, practical, and impactful AI systems**
+I build AI agents, RAG pipelines, and LLM-powered applications for production use, not just demos. I'm currently completing an M.Sc. in Artificial Intelligence & Machine Learning at Gujarat University.
 
----
+Most of my work is orchestrating agent systems with LangChain, LangGraph, and CrewAI, plus automation workflows in n8n, all backed by Python and FastAPI. I also work in deep learning, NLP, computer vision, and data analysis, and deploy on AWS and GCP.
 
-## ⚡ Tech Stack
-
-### 🤖 AI / ML / GenAI
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-</p>
+I maintain a couple of packages on PyPI and take on freelance client work building chatbots, agents, and automation pipelines.
 
 ---
 
-### 🧠 LLMs, RAG & Vector DBs
-<p>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Weaviate-00C4CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge"/>
-</p>
+## Skills
+
+**AI Agents & LLMs**
+LangChain · LangGraph · CrewAI · AutoGen · n8n · RAG
+
+**Model Providers & Local Inference**
+OpenAI · Anthropic · Ollama · LocalAI
+
+**Vector Search**
+FAISS · Chroma · Pinecone · Qdrant · Weaviate · Embeddings
+
+**Machine Learning & Deep Learning**
+Scikit-learn · TensorFlow · PyTorch · CNNs · RNNs
+
+**Backend & APIs**
+Python · FastAPI · Flask · Django · REST · WebSockets · OpenCV
+
+**Cloud & DevOps**
+AWS · GCP · Firebase · Docker · Nginx
+
+**Data**
+SQL · R · Pandas · Matplotlib · Seaborn
 
 ---
 
-### 🤖 Agentic AI & Automation
-<p>
-<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AutoGen-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI_Agents-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier"/>
-<img src="https://img.shields.io/badge/Make-6C63FF?style=for-the-badge"/>
-</p>
+## Selected Projects
+
+**Mythological Chatbots Suite**
+RAG chatbots for the Ramayana, Bhagavad Gita, and Mahabharata, built with LangChain and FAISS.
+[Ramayana](https://github.com/MeetSolanki530/ramayana-chatbot) · [Bhagavad Gita](https://github.com/MeetSolanki530/bhagwatgeeta-chatbot) · [Mahabharata](https://github.com/MeetSolanki530/Mahabharata-gpt)
+
+**AI Research Assistant Platform**
+CrewAI multi-agent system that automates company research and strategy planning, pulling insights out of large PDF volumes.
+
+**Phishing Threat Defenders**
+ML system that flags phishing websites by analyzing URL patterns.
+
+**Animal Classification (CNN)**
+CNN model that classifies wild vs. domestic animals.
+
+**Amazon Sentiment Analysis**
+Sentiment classifier at 93.65% accuracy using TF-IDF and classical ML.
+[Repo](https://github.com/MeetSolanki530/Amazon_Products_Sentiment_Analysis)
+
+**Book Recommendation System**
+[Repo](https://github.com/MeetSolanki530/Book_Recommendation_System)
+
+More on [GitHub](https://github.com/MeetSolanki530).
 
 ---
 
-### ⚙️ Backend & APIs
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge"/>
-</p>
+## Experience
+
+**AI Integration Developer**, Freelance (Upwork), Oct 2023 to Present
+AI/ML development for clients worldwide: model development, deployment, and workflow automation. Builds AI agents and automation pipelines with n8n, LLMs, and RAG.
+
+**AIML Executive (L1)**, Wellorgs Infotech Private Limited, Dec 2024 to May 2025
+Built and deployed scalable APIs with Python, Flask, Firebase Cloud Run, and AWS EC2. Integrated OpenAI and LangChain for behavioral monitoring and cut inference time for real-time use.
+
+**AIML Intern**, Wellorgs Infotech Private Limited, Aug 2024 to Nov 2024
+Fine-tuned machine learning models for educational content analysis.
+
+**Machine Learning Intern**, Suvidha Foundation, Apr 2024 to May 2024
+**Machine Learning Intern**, YBI Foundation, Nov 2023 to Dec 2023
 
 ---
 
-### ☁️ Cloud & Deployment
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx"/>
-</p>
+## Education
+
+**M.Sc. in Artificial Intelligence & Machine Learning**, Gujarat University, 2024 to 2026
+**B.Sc. in Artificial Intelligence & Machine Learning**, Gujarat University, 2021 to 2024, CGPA 8.65
 
 ---
 
-## 🚀 Featured Projects
+## Open Source
 
-### 🧠 RAG-Based AI Chatbots
-- Ramayana → https://github.com/MeetSolanki530/ramayana-chatbot  
-- Bhagavad Gita → https://github.com/MeetSolanki530/bhagwatgeeta-chatbot  
-- Mahabharata → https://github.com/MeetSolanki530/Mahabharata-gpt  
+**[maahelper](https://pypi.org/project/maahelper/)**: AI-powered assistant agent for automation tasks
+**[ragpackai](https://pypi.org/project/ragpackai/)**: portable retrieval-augmented generation library
 
 ---
 
-### 📦 Amazon Sentiment Analysis
-- Achieved **93.65% accuracy**
-- ML models + TF-IDF optimization  
-
-🔗 https://github.com/MeetSolanki530/Amazon_Products_Sentiment_Analysis  
-
----
-
-### 📚 Book Recommendation System
-🔗 https://github.com/MeetSolanki530/Book_Recommendation_System  
-
----
-
-## ⚡ Currently Building
-
-- LLM-powered **AI Agents & Multi-Agent Systems**
-- AI workflow automation (**n8n + APIs**)
-- MCP-based AI architectures
-- Production-ready deployments
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=MeetSolanki530&show_icons=true&theme=tokyonight" /><br/><br/> -->
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeetSolanki530&theme=tokyonight" /><br/><br/>
-  
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MeetSolanki530&layout=compact&hide_border=true&theme=tokyonight" /><br/><br/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=MeetSolanki530&show_icons=true&theme=tokyonight" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeetSolanki530&theme=tokyonight" /><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MeetSolanki530&layout=compact&hide_border=true&theme=tokyonight" /><br/>
   <img src="https://ghchart.rshah.org/MeetSolanki530" />
 </p>
 
 ---
 
-## 🌐 Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/meet-solanki-b96a78230/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://aiml-meet-portfolio-frontend.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox-browser&logoColor=white" height="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.upwork.com/freelancers/~01d34c717a2104b1cd">
-    <img src="https://cdn.simpleicons.org/upwork/6FDA44" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/24999147/meet-solanki">
-    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" />
-  </a>
+<p align="center">
+  <a href="mailto:">Contact</a> · <a href="https://www.linkedin.com/in/meet-solanki-b96a78230/">LinkedIn</a> · <a href="https://aiml-meet-portfolio-frontend.vercel.app/">Portfolio</a>
 </p>
-
----
-
-## 💡 Focus
-
-> Building **real-world AI systems** - not just demos.
-
-Open to **AI/ML roles, freelance work, and collaborations** 🚀
