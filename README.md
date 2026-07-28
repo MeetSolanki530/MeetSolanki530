@@ -28,17 +28,17 @@
 ### 🤖 AI / ML / GenAI
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>   &nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>   &nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>   
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  &nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>  &nbsp;
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>  
 
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>  &nbsp;
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>  
 
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>  &nbsp;
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>  
 
 </p>
 
