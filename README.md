@@ -160,8 +160,7 @@
 
 ## 🌐 Connect
 
-<p align="left">
-
+<p align="center">
   <a href="https://www.linkedin.com/in/meet-solanki-b96a78230/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="30" />
   </a>
@@ -177,13 +176,12 @@
   <a href="https://stackoverflow.com/users/24999147/meet-solanki">
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" height="30" />
   </a>
-
 </p>
 
 ---
 
 ## 💡 Focus
 
-> Building **real-world AI systems** - not just demos.
+> Building **real world AI systems**, not just demos.
 
 Open to **AI/ML roles, freelance work, and collaborations** 🚀
