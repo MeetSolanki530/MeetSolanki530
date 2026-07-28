@@ -13,13 +13,15 @@
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-- 🧠 Building **LLM-powered applications, RAG systems & AI agents**
-- ⚙️ Designing **automation workflows & MCP-based systems**
-- ☁️ Deploying **production-ready AI systems on cloud**
-- 💼 Experience in **real-world AI products & client solutions**
-- 🔥 Focused on **scalable, practical, and impactful AI systems**
+<p align="center">
+🧠 Building <strong>LLM-powered applications, RAG systems & AI agents</strong><br>
+⚙️ Designing <strong>automation workflows & MCP-based systems</strong><br>
+☁️ Deploying <strong>production-ready AI systems on cloud</strong><br>
+💼 Experience in <strong>real-world AI products & client solutions</strong><br>
+🔥 Focused on <strong>scalable, practical, and impactful AI systems</strong>
+</p>
 
 ---
 
@@ -83,25 +85,36 @@
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 ### 🧠 RAG-Based AI Chatbots
-- Ramayana → https://github.com/MeetSolanki530/ramayana-chatbot  
-- Bhagavad Gita → https://github.com/MeetSolanki530/bhagwatgeeta-chatbot  
-- Mahabharata → https://github.com/MeetSolanki530/Mahabharata-gpt  
 
----
+<p align="center">
+<a href="https://github.com/MeetSolanki530/ramayana-chatbot">📖 Ramayana Chatbot</a> •
+<a href="https://github.com/MeetSolanki530/bhagwatgeeta-chatbot">🕉️ Bhagavad Gita Chatbot</a> •
+<a href="https://github.com/MeetSolanki530/Mahabharata-gpt">⚔️ Mahabharata GPT</a>
+</p>
 
 ### 📦 Amazon Sentiment Analysis
-- Achieved **93.65% accuracy**
-- ML models + TF-IDF optimization  
 
-🔗 https://github.com/MeetSolanki530/Amazon_Products_Sentiment_Analysis  
+<p align="center">
+🎯 <strong>93.65% Accuracy</strong><br>
+ML Models + TF-IDF Optimization
+</p>
 
----
+<p align="center">
+<a href="https://github.com/MeetSolanki530/Amazon_Products_Sentiment_Analysis">
+🔗 View Repository
+</a>
+</p>
 
 ### 📚 Book Recommendation System
-🔗 https://github.com/MeetSolanki530/Book_Recommendation_System  
+
+<p align="center">
+<a href="https://github.com/MeetSolanki530/Book_Recommendation_System">
+🔗 View Repository
+</a>
+</p>
 
 ---
 
