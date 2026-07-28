@@ -87,15 +87,17 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-### 🧠 RAG-Based AI Chatbots
+<h3 align="center">🧠 RAG-Based AI Chatbots</h3>
 
 <p align="center">
-<a href="https://github.com/MeetSolanki530/ramayana-chatbot">📖 Ramayana Chatbot</a> •
-<a href="https://github.com/MeetSolanki530/bhagwatgeeta-chatbot">🕉️ Bhagavad Gita Chatbot</a> •
-<a href="https://github.com/MeetSolanki530/Mahabharata-gpt">⚔️ Mahabharata GPT</a>
+  <a href="https://github.com/MeetSolanki530/ramayana-chatbot">📖 Ramayana Chatbot</a> •
+  <a href="https://github.com/MeetSolanki530/bhagwatgeeta-chatbot">🕉️ Bhagavad Gita Chatbot</a> •
+  <a href="https://github.com/MeetSolanki530/Mahabharata-gpt">⚔️ Mahabharata GPT</a>
 </p>
 
-### 📦 Amazon Sentiment Analysis
+---
+
+<h3 align="center">📦 Amazon Sentiment Analysis</h3>
 
 <p align="center">
 🎯 <strong>93.65% Accuracy</strong><br>
@@ -108,7 +110,9 @@ ML Models + TF-IDF Optimization
 </a>
 </p>
 
-### 📚 Book Recommendation System
+---
+
+<h3 align="center">📚 Book Recommendation System</h3>
 
 <p align="center">
 <a href="https://github.com/MeetSolanki530/Book_Recommendation_System">
