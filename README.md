@@ -122,12 +122,14 @@ ML Models + TF-IDF Optimization
 
 ---
 
-## ⚡ Currently Building
+<h2 align="center">🚀 Currently Building</h2>
 
-- LLM-powered **AI Agents & Multi-Agent Systems**
-- AI workflow automation (**n8n + APIs**)
-- MCP-based AI architectures
-- Production-ready deployments
+<p align="center">
+🤖 AI Agents & Multi-Agent Systems<br>
+⚡ LLM-Powered Automation Workflows<br>
+🧠 MCP-Based AI Architectures<br>
+☁️ Production-Ready AI Applications
+</p>
 
 ---
 
