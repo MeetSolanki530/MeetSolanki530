@@ -134,17 +134,17 @@
   <a href="https://www.linkedin.com/in/meet-solanki-b96a78230/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="30" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://aiml-meet-portfolio-frontend.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox-browser&logoColor=white" height="30" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.upwork.com/freelancers/~01d34c717a2104b1cd">
-    <img src="https://cdn.simpleicons.org/upwork/6FDA44" height="40" />
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white" height="30" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://stackoverflow.com/users/24999147/meet-solanki">
-    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" />
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" height="30" />
   </a>
 </p>
 
