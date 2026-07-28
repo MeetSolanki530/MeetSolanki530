@@ -172,6 +172,8 @@ ML Models + TF-IDF Optimization
 Building <strong>production-ready AI systems</strong> that solve real-world problems.
 </p>
 
-<p align="center">
-🚀 Open to <strong>AI/ML Roles</strong>, <strong>Freelance Opportunities</strong>, and <strong>Collaborations</strong>.
-</p>
+<div align="center">
+  <p align="left">
+    🚀 Open to <strong>AI/ML Roles</strong>, <strong>Freelance Opportunities</strong>, and <strong>Collaborations</strong>.
+  </p>
+</div>
