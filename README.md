@@ -185,17 +185,11 @@ ML-based sentiment analysis using TF-IDF & classical machine learning.
 ---
 
 <h2 align="center">💡 Focus</h2>
-
 <p align="center">
-
 Building <strong>real-world AI systems</strong>, not just demos.
-
 </p>
-
 <p align="center">
-
 🚀 Open to <strong>AI/ML Roles</strong> •
 💼 <strong>Freelance Opportunities</strong> •
 🤝 <strong>Collaborations</strong>
-
 </p>
